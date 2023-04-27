@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "Fill in the blank $7+\\square\u003d12$",
+      "choice:(A) 7",
+      "choice:(B) 5",
+      "choice:(C) 3",
+      "choice:(D) 10",
+      "answer:B"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class6",
+      "chapter": "chapter1",
+      "timestamp": "27-4-2023 09:07:05 PM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
