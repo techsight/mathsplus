@@ -1,18 +1,21 @@
 {
   "version": 1,
-  "lastQuestionId": 0,
+  "lastQuestionId": 1,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
     {
       "id": "class6+chapter1",
       "metadata": {
-        "enddate": "2023-05-26",
+        "enddate": "2026-05-26",
         "publish": "yes",
-        "title": ""
+        "title": "Addition",
+        "tags": "mathematics"
       }
     }
   ],
   "answers": [],
-  "quizes": []
+  "quizes": [
+    "class6+chapter1_q"
+  ]
 }
