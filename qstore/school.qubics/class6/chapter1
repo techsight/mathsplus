@@ -14,7 +14,8 @@
       "timestamp": "27-4-2023 09:01:48 PM",
       "ans-count": "0",
       "title": "",
-      "quiz": "1"
+      "quiz": "1,2,3,4,5,6",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   }
 ]
