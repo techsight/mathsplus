@@ -83,7 +83,8 @@
       "chapter": "chapter1",
       "timestamp": "29-4-2023 07:29:01 PM",
       "ans-count": "0",
-      "title": ""
+      "title": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   },
   {
@@ -104,7 +105,8 @@
       "chapter": "chapter1",
       "timestamp": "29-4-2023 07:30:18 PM",
       "ans-count": "0",
-      "title": ""
+      "title": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
     }
   },
   {
@@ -124,6 +126,32 @@
       "standard": "class6",
       "chapter": "chapter1",
       "timestamp": "29-4-2023 07:32:01 PM",
+      "ans-count": "0",
+      "title": "",
+      "imageBaseRef": "https://storage.googleapis.com/qubics-resources"
+    }
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "question": [
+      "$T\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ O$",
+      "$\\ 1\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 4$",
+      "$+2\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 2$",
+      "---------------",
+      "?                    ?",
+      "choice:(A) 36",
+      "choice:(B) 37",
+      "choice:(C) 26",
+      "choice:(D) 16",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class6",
+      "chapter": "chapter1",
+      "timestamp": "14-5-2023 12:07:59 AM",
       "ans-count": "0",
       "title": ""
     }
