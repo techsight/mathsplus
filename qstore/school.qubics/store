@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastQuestionId": 1,
+  "lastQuestionId": 2,
   "name": "school.qubics",
   "imageBaseRef": "https://storage.googleapis.com/qubics-resources",
   "questFiles": [
@@ -13,10 +13,20 @@
         "tags": "mathematics",
         "startdate": "10"
       }
+    },
+    {
+      "id": "class6+chapter2",
+      "metadata": {
+        "enddate": "2023-08-08",
+        "publish": "yes",
+        "title": "Fraction",
+        "tags": "mathematics"
+      }
     }
   ],
   "answers": [],
   "quizes": [
-    "class6+chapter1_q"
+    "class6+chapter1_q",
+    "class6+chapter2_q"
   ]
 }
