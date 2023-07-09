@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "question": [
+      "$\\frac{1}{\\sqrt{2}}\\times2\u003d?$",
+      "choice:(A) $\\sqrt{2}$",
+      "choice:(B) $\\frac{1}{2\\sqrt{2}}$",
+      "choice:(C) $2\\sqrt{2}$",
+      "choice:(D) None",
+      "answer:A"
+    ],
+    "tags": {},
+    "metadata": {
+      "subject": "school.qubics",
+      "standard": "class6",
+      "chapter": "chapter2",
+      "timestamp": "09-7-2023 11:27:23 AM",
+      "ans-count": "0",
+      "title": ""
+    }
+  }
+]
